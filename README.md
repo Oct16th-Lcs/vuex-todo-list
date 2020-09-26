@@ -25,6 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### -----------
+```
 使用vue ui
 vue-cli安装
 
@@ -42,4 +43,9 @@ npm uninstall vue-cli -g
 vue ui命令如果报错vueUI命令报错.PNG
 
 解决：以管理员打开powershell,输入 set-ExecutionPolicy RemoteSigned 内容回车后输入Y或A
+```
+### -----------
+```
+在.eslintrc.js文件中增加 'space-before-function-paren': 0  Eslint验证空格不会报错
+```
 
